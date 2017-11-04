@@ -1,0 +1,1 @@
+sharpie bind -o ./.gen -namespace FlipboardExplorer ./frameworks/Flex.framework/Headers/FLEXManager.h
